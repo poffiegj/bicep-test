@@ -1,5 +1,5 @@
 
-@description('bicep deployment test')
+@description('dit is een bicep deployment test')
 @minLength(3)
 @maxLength(22)
 param projectName string = 'bicepdeployteststorage'
